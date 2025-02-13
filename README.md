@@ -62,9 +62,12 @@ The model predicts the salary for an employee with a level of **6.5**.
 - **Scatter Plot**: Displays the actual salary data points
 - **Line Plot**: Shows the model's predictions across different levels
 
+- ![alt text](https://github.com/tanveerj5/Random-Forest-Regression-Model-for-Salary-Prediction/blob/main/test%20resolution.png)
+
 ### High-Resolution Visualization:
 - A finer granularity of predictions using a **0.01 step size** ensures a smoother and more accurate curve representation.
 
+- ![alt text](https://github.com/tanveerj5/Random-Forest-Regression-Model-for-Salary-Prediction/blob/main/high%20resolution.png)
 ---
 
 ## 📈 Model Evaluation
@@ -76,6 +79,8 @@ The model predicts the salary for an employee with a level of **6.5**.
 
 ### 📋 Evaluation Outcome:
 The evaluation metrics provide a comprehensive view of the model's accuracy and reliability.
+
+- ![alt text](https://github.com/tanveerj5/Random-Forest-Regression-Model-for-Salary-Prediction/blob/main/score.png)
 
 ### 🏆 Best Metric Selection:
 - **RMSE (Root Mean Squared Error)** is often considered the best metric for regression tasks as it penalizes larger errors more than MAE, providing a clearer picture of the model's performance.
